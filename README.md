@@ -220,8 +220,6 @@ In essence:
 - The planets’ information will be a drawing of the planet and general characteristics.
 ![BITACORA 55 CANCRI D](https://github.com/user-attachments/assets/4d8d8d40-fa27-460f-945e-5bec9621ac3f)
 
-## 	Meet the Team
-![image](https://github.com/user-attachments/assets/a6ebeba9-fce9-4300-8100-3af17029d614)
 ## **Links, References and Tools**
 
 ### **Journal Articles**
